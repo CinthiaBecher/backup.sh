@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 data=$(date +%d-%m-%y)
 
 #Solicita diretório para Backup
